@@ -1,0 +1,19 @@
+import random
+List=[]
+a=int(input("Enter the no.of inputs:"))
+for i in range(0,a):
+    e=int(input())
+    List.append(e)
+print(List)
+temp=random.choice(List)
+humudity=random.choice(List)
+print(temp,humudity)
+if temp>100:
+    if humudity>80:
+        print("High Humidity Sensed")
+    else:
+        print("High temperature Sensed")
+elif temp==100:
+    print("Normal temperature")
+else:
+    print("Normal")
