@@ -1,11 +1,11 @@
 # IBM-Project-22484-1659852831
 PROJECT NAME : Smart Farmer - IoT Enabled Smart Farming Application
 
-TEAM ID : PNT2022TMID04699
+TEAM ID     : PNT2022TMID04699
 
 TEAM LEADER : Rithikhaa D
 
-TEAM MEMBERS : Praveen B, Prathiksha T, Praveen kumar P
+TEAM MEMBERS: Praveen B, Prathiksha T, Praveen kumar P
 
 ### OVERVIEW
 
