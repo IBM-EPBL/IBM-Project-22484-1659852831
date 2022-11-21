@@ -28,6 +28,10 @@ The Internet of Things (IoT) is an innovative technology that offers practical a
 
 ![Screenshot (198)](https://user-images.githubusercontent.com/113463210/202845092-67ece46d-dee1-4839-ac84-a2eb8ebdc24d.png)
 
+### QR CODE FOR OUR APP
+
+![image (1)](https://user-images.githubusercontent.com/113463210/203018667-ce817f34-1432-4c53-92f7-03b4615a00f6.png)
+
 ### CONCLUSION
 
 The majority of nations depend heavily on agriculture as a source of employment. In a nation like India, irrigation makes up a considerable share of total water use. The temperature of the immediate environment, the temperature of the soil, and the relative humidity are a few of the variables that affect crop productivity. The Internet of Things (IoT) has many advantages, including increased effectiveness, reduced costs, efficient energy use, forecasting, and public convenience.
